@@ -74,3 +74,7 @@ on OpenCV Haar training were a huge help. Thank you, Naotoshi!
 - [Naotoshi Seo - Tutorial: OpenCV haartraining (Rapid Object Detection With A Cascade of Boosted Classifiers Based on Haar-like Features)](http://note.sonots.com/SciSoftware/haartraining.html)
 - [Material for Naotoshi Seo's tutorial](https://code.google.com/p/tutorial-haartraining/)
 - [OpenCV Documentation - Cascade Classifier Training](http://docs.opencv.org/doc/user_guide/ug_traincascade.html)
+- 
+
+
+###http://stackoverflow.com/questions/10863560/haar-training-opencv-assertion-failed

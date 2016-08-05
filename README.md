@@ -78,3 +78,7 @@ on OpenCV Haar training were a huge help. Thank you, Naotoshi!
 
 
 ###http://stackoverflow.com/questions/10863560/haar-training-opencv-assertion-failed
+###http://host.robots.ox.ac.uk/pascal/VOC/databases.html
+###http://pascal.inrialpes.fr/data/human/INRIAPerson.tar
+###http://hrishikeshrao.pythonanywhere.com/static/docs/Haar%20training.pdf
+###

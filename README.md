@@ -76,6 +76,9 @@ on OpenCV Haar training were a huge help. Thank you, Naotoshi!
 - [OpenCV Documentation - Cascade Classifier Training](http://docs.opencv.org/doc/user_guide/ug_traincascade.html)
 - 
 
+## Fixes in Train_cascade
+
+-http://answers.opencv.org/question/10872/cascade-training-error-opencv-244-train-dataset-for-temp-stage-can-not-filled-branch-training-terminated-cascade-classifier-cant-be-trained-check-the/
 
 ###http://stackoverflow.com/questions/10863560/haar-training-opencv-assertion-failed
 ###http://host.robots.ox.ac.uk/pascal/VOC/databases.html
